@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(177, 166, 166);
+}
+
+.container{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+
+.h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 200px;
+    color: rgb(115, 25, 206);
+}
+
+
+.texarea{
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(124, 120, 114);
+    color: aliceblue;
+    border-radius: 10px;
+
+}
+
+.btn{
+    padding:10px;
+    background-color: rgb(165, 11, 200);
+    font-weight: bold;
+      font-size: 25px;
+}
+
+.btn:hover{
+    background-color: chartreuse;
+}
